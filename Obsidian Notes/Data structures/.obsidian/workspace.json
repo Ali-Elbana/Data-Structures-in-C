@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "82fd1325b4b8af57",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9b4e8ceae20d7e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be5561f7dd7e2236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Waleed Yousef Course/2-Stacks (Array based)/2.2-Stack array based implementation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c25e1744b047a86",
+    "type": "split",
+    "children": [
+      {
+        "id": "b53d6639b83d3e7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08204f5446210806",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "8c43b5753e575b76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9ce2505fadbadef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7bf13aebf086ba7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "00a4e5102c1f4ea7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94eb00f8d9455803",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Waleed Yousef Course/2-Stacks (Array based)/2.2-Stack array based implementation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9caf38022063a5f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Waleed Yousef Course/2-Stacks (Array based)/2.2-Stack array based implementation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a463550883aade8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "671741a961fa1faf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Waleed Yousef Course/2-Stacks (Array based)/2.2-Stack array based implementation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "be5561f7dd7e2236",
+  "lastOpenFiles": [
+    "Images/Traverse stack based array.png",
+    "Waleed Yousef Course/2-Stacks (Array based)/2.2-Stack array based implementation.md",
+    "Images/Clear stack based array.png",
+    "Images/Get stack based array size.png",
+    "Images/stack top of array based.png",
+    "Images/Stack based array is empty.png",
+    "Waleed Yousef Course/2-Stacks (Array based)/2.1-ADT (Abstraction Data Types).md",
+    "Images/Pop from stack based array.png",
+    "Images/Stack based array is full.png",
+    "Images/Push into stack based array.png",
+    "Images/Init stack based array.png",
+    "Images/Stack based array type definition.png",
+    "Waleed Yousef Course/1-Introduction to the course/1.1-About the instructor.md",
+    "Waleed Yousef Course/2-Stacks (Array based)",
+    "Waleed Yousef Course/1-Introduction to the course/1.2-Introduction.md",
+    "Waleed Yousef Course/1-Introduction to the course/1.3-Course Outlines.md",
+    "Waleed Yousef Course/1-Introduction to the course",
+    "Waleed Yousef Course/Untitled",
+    "Images",
+    "Embedded Linux di",
+    "Embedded Linux Diploma/Introduction.md",
+    "Embedded Linux Diploma/About the instructor.md",
+    "Embedded Linux Diploma",
+    "Waleed Yousef Course/Introduction Notes.md",
+    "Waleed Yousef Course/Untitled",
+    "Waleed Yousef Course"
+  ]
+}
